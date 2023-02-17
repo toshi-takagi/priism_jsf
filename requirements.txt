@@ -1,0 +1,7 @@
+numpy == 1.20
+Cython
+cmake
+casatasks
+casatools
+casadata
+GPyOpt
